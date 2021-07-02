@@ -10,4 +10,5 @@ const CONFIG = {
     btnNo: 'Không:3',
     question:'nó là gì đấy? ',
     btnReply: 'đc rồi',
+
     messLink: 'https://m.me/beti.nhism',
